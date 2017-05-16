@@ -1,11 +1,3 @@
-//
-//  RangeViewCell.swift
-//  Easy Fix Client
-//
-//  Created by Kesh Pola on 7/29/16.
-//  Copyright © 2016 MirSoft. All rights reserved.
-//
-
 import Foundation
 import UIKit
 import Eureka
